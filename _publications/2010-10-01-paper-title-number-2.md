@@ -2,7 +2,7 @@
 title: "Nothing in Paper"
 collection: publications
 permalink: /publication/2010-10-01-Nothing-in-Paper
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: "There's nothing here, because I don't have a paper."
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
