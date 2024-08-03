@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_.png"
   name             : "Yuxiang LUO"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor of Management/Major in IMIS/Tongji University/sophomore"
